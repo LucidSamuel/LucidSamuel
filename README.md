@@ -11,6 +11,8 @@
 A software engineer building great developer experiences.
 
 <p>
+  
+  https://api.daily.dev/devcards/37221e64cbc2435aa5b978d5944eb299.png?r=0jb
 
 ### 👉🏽👈🏽 &nbsp;Get to know me more :)
 Over the last 7 years I've worked as an engineer at organizations like <a href="https://canza.io" target="_blank">Canza Finance</a> and <a href="https://joincoil.com" target="_blank">Coil Payments</a>. More recently, my work has also centered around building products for developers at <a href="https://withkingdom.com" target="_blank">Kingdom <a/>, growing communities through education with <a href="https://decentrapress.com" target="_blank">Decentrapress</a>, and helping developers grow through my inititative at <a href="https://institute.spydarafrica.com" target="_blank">Spydar Institute</a>.
