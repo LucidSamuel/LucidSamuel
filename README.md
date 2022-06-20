@@ -59,4 +59,7 @@ if __name__ == '__main__':
     <img src="https://komarev.com/ghpvc/?username=LucidSamuel&style=for-the-badge">
 </a>
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ------
