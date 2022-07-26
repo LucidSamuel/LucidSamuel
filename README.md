@@ -25,7 +25,7 @@ Over the last 7 years I've worked as an engineer at organizations like <a href="
   <img src="https://img.shields.io/badge/-Node JS-3c873a?style=for-the-badge&logo=NodeJS&logoColor=3c873a&labelColor=3c873a">
    <img src="https://img.shields.io/badge/-React JS-08c26e?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Typescript-98b982?style=for-the-badge&logo=Typescript&logoColor=98b982&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Typescript-98b982?style=for-the-badge&logo=Typescript&logoColor=98b982&labelColor=3178C6">
 
 </div>
 </p>
