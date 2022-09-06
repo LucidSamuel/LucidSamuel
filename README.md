@@ -62,7 +62,7 @@ if __name__ == '__main__':
 </a>
 
 
-//![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
-//![GitHub Snake dark](github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!--![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake.svg#gh-dark-mode-only)-->
 
 ------
