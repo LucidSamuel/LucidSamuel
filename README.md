@@ -15,7 +15,7 @@ A software engineer building great developer experiences.
 <a href="https://app.daily.dev/lucidsamuel"><img src="https://github.com/LucidSamuel/LucidSamuel/blob/main/devcard.svg" width="400" alt="Samuel Akinosho's Dev Card"/></a>-->
   
 ### 👉🏽👈🏽 &nbsp;Get to know me more :)
-My work has centeres around building developer experiences at <a href="https://dfinity.org"> Dfinity,</a> contributing to OSS projects like <a href="https://github.com/teamhanko/hanko"> Hanko, </a> the <a href="https://www.gitpoap.io/gp/74"> Ethereum Foundation</a> amongst others while also building products for developers at <a href="https://withkingdom.com" target="_blank">Kingdom<a/>, growing communities through education with <a href="https://decentrapress.com" target="_blank">Decentrapress</a>.
+My work centeres around building great developer experiences at <a href="https://dfinity.org"> Dfinity,</a> contributing to OSS projects like <a href="https://github.com/teamhanko/hanko"> Hanko, </a> the <a href="https://www.gitpoap.io/gp/74"> Ethereum Foundation</a> amongst others while also building products for developers at <a href="https://withkingdom.com" target="_blank">Kingdom<a/>, growing communities through education with <a href="https://decentrapress.com" target="_blank">Decentrapress</a>.
 
 I've also previously led engineering roles at organizations like <a href="https://canza.io" target="_blank">Canza Finance</a> and <a href="https://joincoil.com" target="_blank">Coil Payments</a>. 
 ‍<br>
