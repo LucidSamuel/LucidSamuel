@@ -15,7 +15,7 @@ Over the last 7 years I've worked as a software engineer, engineering manager, s
 </p>
 <p>
 
- I <a href="https://noti.st/lucidsamuel" target="_blank">speak</a> at global tech events.
+ I also <a href="https://noti.st/lucidsamuel" target="_blank">speak</a> at global tech events.
 <!--
 <p>
 <div align="center">
