@@ -9,8 +9,10 @@
 </div>
 -->
 A software engineer building great developer experiences. <p>
-Over the last 7 years I've worked as a software engineer, engineering manager, startup founder and also led developer-focused communities. Currently, I work as a developer relations engineer at <a href="https://o1labs.org/">o(1) labs</a> for the <a href="https://minaprotocol.com/">Mina Blockchain.</a> Previously I was a DevRel for the <a href="https://internetcomputer.org/">Internet Computer</a> developer ecosystem at <href ="https://dfinity.org/">Dfinity</a>, And before that I was building products for developers through my _now-acquired_ startup Kingdom, while also helping developers grow through mentorships at <a href="https://the-collab-lab.codes/">The Collab Lab</a>. 
+Over the last 7 years I've worked as a software engineer, engineering manager, startup founder and also led developer-focused communities. 
 
+<p> Currently, I work as a developer relations engineer at <a href="https://o1labs.org/">o(1) labs</a> for the <a href="https://minaprotocol.com/">Mina Blockchain.</a> Previously I was a DevRel for the <a href="https://internetcomputer.org/">Internet Computer</a> developer ecosystem at <href ="https://dfinity.org/">Dfinity</a>, And before that I was building products for developers through my _now-acquired_ startup Kingdom, while also helping developers grow through mentorships at <a href="https://the-collab-lab.codes/">The Collab Lab</a>. 
+</p>
 <p>
  <!-- 
 <a href="https://app.daily.dev/lucidsamuel"><img src="https://github.com/LucidSamuel/LucidSamuel/blob/main/devcard.svg" width="400" alt="Samuel Akinosho's Dev Card"/></a>
