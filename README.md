@@ -7,16 +7,16 @@
 <div align="center">
     <img src="https://github.com/LucidSamuel/LucidSamuel/blob/main/header.jpg" alt="header photo">
 </div>
--->
+//
 A software engineer building great developer experiences. <p>
 Over the last 7 years I've worked as a software engineer, engineering manager, startup founder and also led developer-focused communities. 
 
-<p> Currently, I work as a developer relations engineer at <a href="https://o1labs.org/">o(1) labs</a> for the <a href="https://minaprotocol.com/">Mina Blockchain.</a> Previously I was a DevRel for the <a href="https://internetcomputer.org/">Internet Computer</a> developer ecosystem at <a href ="https://dfinity.org/">Dfinity</a>, And before that I was building products for developers through my _now-acquired_ startup Kingdom, while also helping developers grow through mentorships at <a href="https://the-collab-lab.codes/">The Collab Lab</a>. 
+<!-- <p> Currently, I work as a developer relations engineer at <a href="https://o1labs.org/">o(1) labs</a> for the <a href="https://minaprotocol.com/">Mina Blockchain.</a> Previously I was a DevRel for the <a href="https://internetcomputer.org/">Internet Computer</a> developer ecosystem at <a href ="https://dfinity.org/">Dfinity</a>, And before that I was building products for developers through my _now-acquired_ startup Kingdom, while also helping developers grow through mentorships at <a href="https://the-collab-lab.codes/">The Collab Lab</a>. 
 </p>
 <p>
 
  I also <a href="https://noti.st/lucidsamuel" target="_blank">speak</a> at global tech events.
-<!--
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
