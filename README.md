@@ -31,7 +31,6 @@ Over the last 7 years I've worked as a software engineer, engineering manager, s
 class LucidSamuel():
     
   def __init__(self):
-    self.name = "Samuel Akinosho";
     self.username = "Lucid Samuel";
     self.location = "Metaverse";
     self.twitter = "@LucidSamuel";
