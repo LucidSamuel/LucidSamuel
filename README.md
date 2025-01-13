@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 <h1 align="center">
-  <b>I'm Samuel Akinosho! ⚡️</b>
+  <b>I'm Samuel! ⚡️</b>
 </h1>
 <!--
 <div align="center">
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.samuelakinosho.com"><img src="https://img.shields.io/badge/-samuelakinosho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.lucidsamuel.com"><img src="https://img.shields.io/badge/-samuelakinosho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/samuel-akinosho"><img src="https://img.shields.io/badge/-Samuel%20Akinosho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hey@samuelakinosho.com"><img src="https://img.shields.io/badge/-hey@samuelakinosho.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/LucidSamuel_"><img src="https://img.shields.io/badge/-@LucidSamuel-blue?style=flat&logo=Twitter&logoColor=white"/></a>
