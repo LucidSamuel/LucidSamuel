@@ -34,7 +34,7 @@ class LucidSamuel():
     self.username = "Lucid Samuel";
     self.location = "Metaverse";
     self.twitter = "@LucidSamuel";
-    self.web = "https://samuelakinosho.com";
+    self.web = "https://lucidsamuel.com";
   
   def __str__(self):
     return self.name
