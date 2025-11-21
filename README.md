@@ -33,7 +33,7 @@ class LucidSamuel():
   def __init__(self):
     self.username = "Lucid Samuel";
     self.location = "Metaverse";
-    self.twitter = "@LucidSamuel";
+    self.twitter = "@lucidzk";
     self.web = "https://lucidsamuel.com";
   
   def __str__(self):
@@ -50,7 +50,7 @@ if __name__ == '__main__':
 <a href="https://www.lucidsamuel.com"><img src="https://img.shields.io/badge/-samuelakinosho.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/samuel-akinosho"><img src="https://img.shields.io/badge/-Samuel%20Akinosho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hey@samuelakinosho.com"><img src="https://img.shields.io/badge/-hey@samuelakinosho.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/LucidSamuel_"><img src="https://img.shields.io/badge/-@LucidSamuel-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/Lucidzk"><img src="https://img.shields.io/badge/-@lucidzk-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <a href="https://github.com/lucidsamuel">
     <img src="https://komarev.com/ghpvc/?username=LucidSamuel&style=for-the-badge">
